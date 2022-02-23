@@ -1,2 +1,0 @@
-# techlabs
-mapper
